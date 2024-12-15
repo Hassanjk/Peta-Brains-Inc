@@ -245,10 +245,6 @@ Estimating the cost for 10,000 responses:
 
 
 
-(Yo has , u can put the table here )
-
-
-
 
 ---
 
