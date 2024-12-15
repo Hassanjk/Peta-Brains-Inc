@@ -226,7 +226,6 @@ Estimating the cost for 10,000 responses:
 
 
 
-
 ---
 
 ## Contributions
