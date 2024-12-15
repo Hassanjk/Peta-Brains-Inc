@@ -64,7 +64,7 @@ The dashboard acts as the central hub for tracking users, revenue, and key metri
 
 **Complexity**: Medium
 
-**Payments Made**: $0.000
+**Payments Made**: $0.00
 
 ---
 
