@@ -136,8 +136,7 @@ Hunyuan-Pro (Tencent), and many others. Although some of these tools currently h
 
 PetaBrains will expand with the following future milestones:
 ## Step 1: Revised Token Calculation
-Each response is still estimated to use about 500 tokens (including both input and output). So for 10,000 responses, the total tokens processed will be: 10,000responses×500tokens=5,000,000tokens
-                                10,000responses×500tokens=5,000,000tokens
+Each response is still estimated to use about 500 tokens 
 
 ## Step 2: Estimated Cost Breakdown for Each AI Tool
 
@@ -192,56 +191,6 @@ Estimating the cost for 10,000 responses:
 4. Anthropic Claude Models
 -Claude models are estimated at $0.02/1,000 tokens.
 
-Estimating the cost for 10,000 responses:
--Claude (All versions): 5,000,000 tokens * $0.02/1,000 tokens = $100
-
-5. Baidu Ernie Models
--Pricing for Baidu’s models is estimated at $0.03/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Ernie (All versions): 5,000,000 tokens * $0.03/1,000 tokens = $150
-
-6. ByteDance Doubao Models
--Pricing for ByteDance's Doubao models is estimated at $0.03/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Doubao models: 5,000,000 tokens * $0.03/1,000 tokens = $150
-
-7. Alibaba Qwen Models
--These models are priced around $0.03/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Qwen models: 5,000,000 tokens * $0.03/1,000 tokens = $150
-
-8. Tencent Hunyuan Models
--These models are typically priced at $0.03/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Hunyuan models: 5,000,000 tokens * $0.03/1,000 tokens = $150
-
-9. Moonshot Models
--Pricing for Moonshot models is estimated at $0.03/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Moonshot models: 5,000,000 tokens * $0.03/1,000 tokens = $150
-
-10. Iflytek Models
--Iflytek models are estimated at $0.02/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Iflytek models: 5,000,000 tokens * $0.02/1,000 tokens = $100
-
-11. ChatGLM Models
--Pricing for ChatGLM models is estimated at $0.03/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--ChatGLM models: 5,000,000 tokens * $0.03/1,000 tokens = $150
-
-12. XAI Grok
--Grok's pricing is estimated at $0.02/1,000 tokens.
-
-Estimating the cost for 10,000 responses:
--Grok: 5,000,000 tokens * $0.02/1,000 tokens = $100
 
 ## Step 3: Potential Earnings Breakdown
 
@@ -262,11 +211,6 @@ Estimating the cost for 10,000 responses:
 - Premium Plan: $99/month - Full access to all AI models and features
 - Numbers are gross revenue before operating costs and AI usage fees
 
-
----
-
-## Contributions
-We welcome contributions from developers, designers, and AI enthusiasts to enhance the PetaBrains platform. For guidelines, refer to our [Contribution Guide](#).
 
 ---
 
