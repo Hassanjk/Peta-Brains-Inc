@@ -243,7 +243,24 @@ Estimating the cost for 10,000 responses:
 Estimating the cost for 10,000 responses:
 -Grok: 5,000,000 tokens * $0.02/1,000 tokens = $100
 
+## Step 3: Potential Earnings Breakdown
 
+### Monthly Subscription Revenue Projections
+
+| Number of Users | Basic Plan ($19/month) | Premium Plan ($99/month) | Total Monthly Revenue |
+|----------------|-----------------------|------------------------|---------------------|
+| 100 | $1,900 | $9,900 | $11,800 |
+| 500 | $9,500 | $49,500 | $59,000 |
+| 1,000 | $19,000 | $99,000 | $118,000 |
+| 2,500 | $47,500 | $247,500 | $295,000 |
+| 5,000 | $95,000 | $495,000 | $590,000 |
+| 7,500 | $142,500 | $742,500 | $885,000 |
+| 10,000 | $190,000 | $990,000 | $1,180,000 |
+
+*Note: These projections assume:*
+- Basic Plan: $19/month - Access to essential AI features
+- Premium Plan: $99/month - Full access to all AI models and features
+- Numbers are gross revenue before operating costs and AI usage fees
 
 
 ---
