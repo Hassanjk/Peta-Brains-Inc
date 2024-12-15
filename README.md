@@ -12,13 +12,13 @@ This documentation outlines the project's key sections, their progression, featu
 ### Overview Table of Key Sections
 | **Section**                            | **Features**                                                                 | **Progression**                          | **Estimated Completion** | **Complexity** | **Payments Made** |
 |----------------------------------------|------------------------------------------------------------------------------|-----------------------------------------|--------------------------|----------------|-------------------|
-| **1. Lago for Billing Customers**       | - Payment system integration                                                 | Completed Phase 1                        | Q1 2025                 | Medium         | $10,000           |
+| **1. Lago for Billing Customers**       | - Payment system integration                                                 | Completed Phase 1                        | Q1 2025                 | Medium         | $600           |
 |                                        | - Subscription and billing automation                                       | In Progress                             | Q2 2025                 | High           |                   |
-| **2. PetaBrains Dashboard**            | - Track customer statistics and revenue                                     | Phase 2 Completed                        | Q4 2024                 | Medium         | $8,000            |
+| **2. PetaBrains Dashboard**            | - Track customer statistics and revenue                                     | Phase 2 Completed                        | Q4 2024                 | Medium         | $0.00            |
 |                                        | - Monitor performance (e.g., expenses, profits, projects)                   | Ongoing Improvements                     | Q1 2025                 | Medium         |                   |
-| **3. Main Website**                    | - Showcase PetaBrains capabilities (AI Content Writing, Image Generation)   | Completed                                | Q3 2024                 | Low            | $7,500            |
+| **3. Main Website**                    | - Showcase PetaBrains capabilities (AI Content Writing, Image Generation)   | Completed                                | Q3 2024                 | Low            | $79            |
 |                                        | - User sign-up and feature demonstrations                                   | Launch Phase Complete                    | Q3 2024                 | Low            |                   |
-| **4. Main Web Application**            | - AI Content Writing tools                                                  | Phase 3 In Progress                      | Q2 2025                 | High           | $15,000           |
+| **4. Main Web Application**            | - AI Content Writing tools                                                  | Phase 3 In Progress                      | Q2 2025                 | High           | $520,00           |
 |                                        | - AI Image Generation using DALL·E, Stable Diffusion, and more              | Beta Testing Ongoing                     | Q2 2025                 | High           |                   |
 |                                        | - Customizable AI tools                                                     | Upcoming Feature                         | Q3 2025                 | Very High      |                   |
 
