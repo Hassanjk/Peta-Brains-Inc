@@ -223,6 +223,21 @@ Estimating the cost for 10,000 responses:
 Estimating the cost for 10,000 responses:
 -Grok: 5,000,000 tokens * $0.02/1,000 tokens = $100
 
+### Overview Table of Key Sections
+| **Section**                            | **Features**                                                                 | **AI Model**                          | **Estimated Cost for 10,000 Responses** |
+|----------------------------------------|------------------------------------------------------------------------------|-----------------------------------------|--------------------------|----------------|-------------------|
+| **1. OpenAI GPT-3.5-Turbo	**       | $10                                                 | Completed Phase 1                        | Q1 2025                 | Medium         | $10,000           |
+|                                        | - Subscription and billing automation                                       | In Progress                             | Q2 2025                 | High           |                   |
+| **2. OpenAI GPT-4 (8k)	**            | - Track customer statistics and revenue                                     | Phase 2 Completed                        | Q4 2024                 | Medium         | $8,000            |
+|                                        | - Monitor performance (e.g., expenses, profits, projects)                   | Ongoing Improvements                     | Q1 2025                 | Medium         |                   |
+| **3. Main Website**                    | - Showcase PetaBrains capabilities (AI Content Writing, Image Generation)   | Completed                                | Q3 2024                 | Low            | $7,500            |
+|                                        | - User sign-up and feature demonstrations                                   | Launch Phase Complete                    | Q3 2024                 | Low            |                   |
+| **4. Main Web Application**            | - AI Content Writing tools                                                  | Phase 3 In Progress                      | Q2 2025                 | 
+|                                        | - AI Image Generation using DALL·E, Stable Diffusion, and more              | Beta Testing Ongoing                     | Q2 2025                 | 
+|                                        | - Customizable AI tools                                                     | Upcoming Feature                         | Q3 2025                 |
+---
+
+
 
 
 
