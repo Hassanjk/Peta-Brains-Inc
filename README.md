@@ -42,7 +42,7 @@ Lago is integrated to handle all billing processes within PetaBrains. It support
 
 **Complexity**: High
 
-**Payments Made**: $10,000
+**Payments Made**: $600
 
 ---
 
@@ -64,7 +64,7 @@ The dashboard acts as the central hub for tracking users, revenue, and key metri
 
 **Complexity**: Medium
 
-**Payments Made**: $8,000
+**Payments Made**: $0.000
 
 ---
 
@@ -86,7 +86,7 @@ The PetaBrains main website showcases platform features, attracts users, and ser
 
 **Complexity**: Low
 
-**Payments Made**: $7,500
+**Payments Made**: $79
 
 ---
 
@@ -109,7 +109,7 @@ The main web application delivers AI-powered tools to users for content creation
 
 **Complexity**: Very High
 
-**Payments Made**: $15,000
+**Payments Made**: $520
 
 ---
 
