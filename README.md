@@ -140,6 +140,26 @@ Each response is still estimated to use about 500 tokens (including both input a
                                 10,000responses×500tokens=5,000,000tokens
 
 ## Step 2: Estimated Cost Breakdown for Each AI Tool
+
+| AI Model | Estimated Cost for 10,000 Responses |
+|----------|-------------------------------------|
+| OpenAI GPT-3.5-Turbo | $10 |
+| OpenAI GPT-4 (8k) | $150 |
+| OpenAI GPT-4 (32k) | $300 |
+| Azure GPT-3.5-Turbo | $10 |
+| Azure GPT-4 (8k) | $150 |
+| Azure GPT-4 (32k) | $300 |
+| Google Gemini | $100 |
+| Claude (All versions) | $100 |
+| Baidu Ernie | $150 |
+| ByteDance Doubao | $150 |
+| Alibaba Qwen | $150 |
+| Tencent Hunyuan | $150 |
+| Moonshot Models | $150 |
+| Iflytek Models | $100 |
+| ChatGLM Models | $150 |
+| XAI Grok | $100 |
+
 Models
   1. OpenAI GPT Models
      -GPT-3.5-Turbo (OpenAI)
